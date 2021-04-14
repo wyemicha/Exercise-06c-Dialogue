@@ -1,7 +1,7 @@
 # Exercise-06c-Dialogue
 Exercise for MSCH-C220, 12 April 2021
 
-A demonstration of this exercise is available at 
+A demonstration of this exercise is available at [https://youtu.be/M0GJIYTUXjQ](https://youtu.be/M0GJIYTUXjQ)
 
 This exercise is an opportunity for you to experiment with an open source Godot Dialogue add-on called Dialogic. Dialogic has [recently been released](https://dialogic.coppolaemilio.com/) as a 1.0. It is still a little buggy around the edges, but it is a powerful system for creating and introducing dialogue systems into your games.
 
